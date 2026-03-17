@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+student_performance_model.pkl
+university.db
+*.sqlite
+.DS_Store
+Thumbs.db
